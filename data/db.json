@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "andriy pyatov",
+      "number": "80961234567",
+      "id": 1
+    },
+    {
+      "name": "ruslan malinovsky",
+      "number": "80966148478",
+      "id": 2
+    },
+    {
+      "name": "alex zinchenko",
+      "number": "80966148634",
+      "id": 3
+    },
+    {
+      "name": "andriy yarmolenko",
+      "number": "80966148666",
+      "id": 4
+    },
+    {
+      "name": "roman yaremchuk",
+      "number": "80966148999",
+      "id": 5
+    },
+    {
+      "name": "taras stepanenko",
+      "number": "80966148689",
+      "id": 6
+    },
+    {
+      "name": "andriy shevchenko",
+      "number": "80966148000",
+      "id": 7
+    }
+  ]
+}

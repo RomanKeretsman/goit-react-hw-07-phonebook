@@ -1,0 +1,19 @@
+.title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  color: #ee8828;
+
+  text-align: center;
+}
+
+.appear {
+  transform: translateY(-100%)
+  scaleX(1.8)
+}
+
+.appearActive {
+  transform: translateY(0)
+  scaleX(1);
+  transition: all 800ms linear;
+}
